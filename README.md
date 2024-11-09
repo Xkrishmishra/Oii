@@ -78,12 +78,16 @@ Commands
 
 3. Image Generation: Once the feature goes live, type /draw A futuristic city at sunset to get an AI-generated image based on your description.
 
-### 📞 Support
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
 
-Telegram Support Group: Join the community on [@KRISHSUPPORT](https://t.me/AsuraaSupports).
-Creator's Profile: Connect with the creator on Telegram: [@KRISHNETWORK](https://t.me/itzAsuraa).
+<p align="center">
+<a href="https://telegram.me/Krishnetwork"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
-### 📜 License
+<p align="center">
+<a href="https://telegram.me/KRISHSUPPORT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ᴋʀɪsʜ](https://github.com/Xkrishmishra) ғᴏʀ [ᴀɪ ʙᴏᴛ](https://github.com/xkrishmishra/searchwithAI)_ </b>
