@@ -1,0 +1,9 @@
+motor
+tgcrypto
+pytz
+requests
+flask
+pymongo
+gunicorn==22.0.0
+pyrofork
+aiohttp
