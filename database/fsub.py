@@ -17,10 +17,10 @@ async def get_fsub(bot, message):
         keyboard = [[join_button]]
         await message.reply(
             f"<b>👋 Hello {message.from_user.mention()}, Welcome!</b>\n\n"
-            "📢 <b>Exclusive Access Alert!</b> ✨\n\n"
-            "To unlock all the amazing features I offer, please join our updates channel. "
-            "This helps us keep you informed and ensures top-notch service just for you! 😊\n\n"
-            "<i>🚀 Join now and dive into a world of knowledge and creativity!</i>",
+            "🥀 <b>ᴇxᴄʟᴜsɪᴠᴇ ᴀᴄᴄᴇss ᴀʟᴇʀᴛ!</b> ✨\n\n"
+            "To ᴜɴʟᴏᴄᴋ ᴀʟʟ ᴛʜᴇ ᴀᴍᴀᴢɪɴɢ ғᴇᴀᴛᴜʀᴇs I ᴏғғᴇʀ, ᴘʟᴇᴀsᴇ ᴊᴏɪɴ ᴏᴜʀ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ. "
+            "ᴛʜɪs ʜᴇʟᴘs ᴜs ᴋᴇᴇᴘ ʏᴏᴜ ɪɴғᴏʀᴍᴇᴅ ᴀɴᴅ ᴇɴsᴜʀᴇs ᴛᴏᴘ sᴇʀᴠɪᴄᴇ ᴊᴜsᴛ ғᴏʀ ʏᴏᴜ! \n\n"
+            "<i>🚀 ᴊᴏɪɴ ɴᴏᴡ ᴀɴᴅ ᴅɪᴠᴇ ɪɴᴛᴏ ᴀ ᴡᴏʀʟᴅ ᴏғ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴀɴᴅ ᴄʀᴇᴀᴛɪᴠɪᴛʏ!</i>",
             reply_markup=InlineKeyboardMarkup(keyboard),
         )
         return False
