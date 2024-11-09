@@ -1,82 +1,82 @@
-# Response By Ai 🤖✨
+# ʀᴇsᴘᴏɴsᴇ ʙʏ ᴀɪ 🤖✨
 
-Response By Ai is a powerful conversational AI chatbot created by @itzAsuraa. Designed for Telegram, this bot provides fast, interactive, and accurate responses on various topics, making it a reliable virtual assistant for users.
-
-
-### 🌟 Key Features
-
-🚀 AI-Powered Chat Assistance: Engage in meaningful conversations and get accurate answers on a wide range of topics.
-
-📡 Effortless Broadcast Messaging: Integrated database support enables easy message broadcasting to multiple users.
-
-🌐 User-Friendly Interface: Simple, intuitive UI accessible to everyone.
-
-⚡ Fast Response Times: Optimized for speed, ensuring quick replies.
-
-💻 Flexible Deployment: Deploy on Render, Koyeb, or Heroku to fit your hosting preferences.
-
-🖼️ Image Scanning (Coming Soon): Soon, you'll be able to generate AI-driven image descriptions based on uploaded images and prompts.
+ʀᴇsᴘᴏɴsᴇ ʙʏ ᴀɪ ɪs ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴄᴏɴᴠᴇʀsᴀᴛɪᴏɴᴀʟ ᴀɪ ᴄʜᴀᴛʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ @krishneteork . ᴅᴇsɪɢɴᴇᴅ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ, ᴛʜɪs ʙᴏᴛ ᴘʀᴏᴠɪᴅᴇs ғᴀsᴛ, ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ, ᴀɴᴅ ᴀᴄᴄᴜʀᴀᴛᴇ ʀᴇsᴘᴏɴsᴇs ᴏɴ ᴠᴀʀɪᴏᴜs ᴛᴏᴘɪᴄs, ᴍᴀᴋɪɴɢ ɪᴛ ᴀ ʀᴇʟɪᴀʙʟᴇ ᴠɪʀᴛᴜᴀʟ ᴀssɪsᴛᴀɴᴛ ғᴏʀ ᴜsᴇʀs.
 
 
+  🪐 ᴋᴇʏ ғᴇᴀᴛᴜʀᴇs
+
+ᴘʀᴀɴᴅᴅᴇɴsʀᴇᴅ ᴄʜᴀᴛ ᴀssɪsᴛᴀɴᴄᴇ: ᴇɴɢᴀɢᴇ ɪɴ ᴍᴇᴀɴɪɴɢғᴜʟ ᴄᴏɴᴠᴇʀsᴀᴛɪᴏɴs ᴀɴᴅ ɢᴇᴛ ᴀᴄᴄᴜʀᴀᴛᴇ ᴀɴsᴡᴇʀs ᴏɴ ᴀ ᴡɪᴅᴇ ʀᴀɴɢᴇ ᴏғ ᴛᴏᴘɪᴄs.
+
+📡 ᴇғғᴏʀᴛʟᴇss ʙʀᴏᴀᴅᴄᴀsᴛ ᴍᴇssᴀɢɪɴɢ: ɪɴᴛᴇɢʀᴀᴛᴇᴅ ᴅᴀᴛᴀʙᴀsᴇ sᴜᴘᴘᴏʀᴛ ᴇɴᴀʙʟᴇs ᴇᴀsʏ ᴍᴇssᴀɢᴇ ʙʀᴏᴀᴅᴄᴀsᴛɪɴɢ ᴛᴏ ᴍᴜʟᴛɪᴘʟᴇ ᴜsᴇʀs.
+
+🌐 ᴜsᴇʀ ᴋɪɴᴅʟʏ ɪɴᴛᴇʀғᴀᴄᴇ: sɪᴍᴘʟᴇ, ɪɴᴛᴜɪᴛɪᴠᴇ UI ᴀᴄᴄᴇssɪʙʟᴇ ᴛᴏ ᴇᴠᴇʀʏᴏɴᴇ.
+
+⚡ ғᴀsᴛ ʀᴇsᴘᴏɴsᴇ ᴛɪᴍᴇs: ᴏᴘᴛɪᴍɪᴢᴇᴅ ғᴏʀ sᴘᴇᴇᴅ, ᴇɴsᴜʀɪɴɢ ǫᴜɪᴄᴋ ʀᴇᴘʟɪᴇs.
+
+💻 ғʟᴇxɪʙʟᴇ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ: ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ, ᴋᴏʏᴇʙ, ᴏʀ ʜᴇʀᴏᴋᴜ ᴛᴏ ғɪᴛ ʏᴏᴜʀ ʜᴏsᴛɪɴɢ ᴘʀᴇғᴇʀᴇɴᴄᴇs.
+
+🖼️ ɪᴍᴀɢᴇ sᴄᴀɴɴɪɴɢ :  ʏᴏᴜ ʟʟ  ʙᴇ ᴀʙʟᴇ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ AI-ᴅʀɪᴠᴇɴ ɪᴍᴀɢᴇ ᴅᴇsᴄʀɪᴘᴛɪᴏɴs ʙᴀsᴇᴅ on ᴜᴘʟᴏᴀᴅᴇᴅ ɪᴍᴀɢᴇs ᴀɴᴅ ᴘʀᴏᴍᴘᴛs.
 
 
-## 📂 System Architecture
 
-The architecture of "Response By Ai" consists of modular plugins and integrated APIs, providing robust functionality for different use cases. Below is the repository map that visualizes the components:
 
-### Component Overview
+ 📂 sʏsᴛᴇᴍ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ
 
-- **Chat AI Plugins:** Multiple AI models (Claude, Gemini, Llama, GPT) provide varied responses for different queries.
+The ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ ᴏғ " sᴇᴀʀᴄʜ ᴡɪᴛʜ Ai" ᴄᴏɴsɪsᴛs ᴏғ ᴍᴏᴅᴜʟᴀʀ ᴘʟᴜɢɪɴs ᴀɴᴅ ɪɴᴛᴇɢʀᴀᴛᴇᴅ ᴀᴘɪs, ᴘʀᴏᴠɪᴅɪɴɢ ʀᴏʙᴜsᴛ ғᴜɴᴄᴛɪᴏɴᴀʟɪᴛʏ ғᴏʀ ᴅɪғғᴇʀᴇɴᴛ ᴜsᴇ cases. ʙᴇʟᴏᴡ ɪs ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ ᴍᴀᴘ ᴛʜᴀᴛ ᴠɪsᴜᴀʟɪᴢᴇs ᴛʜᴇ ᴄᴏᴍᴘᴏɴᴇɴᴛs:
 
-- **Image Plugins:** Includes Draw Plugin to generate images based on user prompts.
+!! ᴄᴏᴍᴘᴏɴᴇɴᴛ ᴏᴠᴇʀᴠɪᴇᴡ
 
-- **Main Plugin:** Acts as the central handler for bot functions, including user interactions and broadcasts.
+- **ᴄʜᴀᴛ AI ᴘʟᴜɢɪɴs:** ᴍᴜʟᴛɪᴘʟᴇ ᴀɪ ᴍᴏᴅᴇʟs (ᴄʟᴀᴜᴅᴇ, ɢᴇᴍɪɴɪ, ʟʟᴀᴍᴀ, ɢᴘᴛ) ᴘʀᴏᴠɪᴅᴇ ᴠᴀʀɪᴇᴅ ʀᴇsᴘᴏɴsᴇs ғᴏʀ ᴅɪғғᴇʀᴇɴᴛ ǫᴜᴇʀɪᴇs.
 
-- **Database:** Stores user information, handles forced subscriptions, and manages data interactions.
+- **ɪᴍᴀɢᴇ ᴘʟᴜɢɪɴs:** ɪɴᴄʟᴜᴅᴇs ᴅʀᴀᴡ ᴘʟᴜɢɪɴ to ɢᴇɴᴇʀᴀᴛᴇ ɪᴍᴀɢᴇs based on user prompts.
 
-### External APIs:
+- **ᴍᴀɪɴ ᴘʟᴜɢɪɴ:** ᴀᴄᴛs ᴀs ᴛʜᴇ ᴄᴇɴᴛʀᴀʟ ʜᴀɴᴅʟᴇʀ ғᴏʀ ʙᴏᴛ ғᴜɴᴄᴛɪᴏɴs, ɪɴᴄʟᴜᴅɪɴɢ ᴜsᴇʀ ɪɴᴛᴇʀᴀᴄᴛɪᴏɴs ᴀɴᴅ ʙʀᴏᴀᴅᴄᴀsᴛs.
 
-- **Telegram API:** Allows interaction with users on Telegram.
+- **ᴅᴀᴛᴀʙᴀsᴇ:** sᴛᴏʀᴇs ᴜsᴇʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ, ʜᴀɴᴅʟᴇs ғᴏʀᴄᴇᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴs, ᴀɴᴅ ᴍᴀɴᴀɢᴇs ᴅᴀᴛᴀ ɪɴᴛᴇʀᴀᴄᴛɪᴏɴs.
 
-- **Code Search API:** Provides access to multiple AI and image models for diverse responses.
+### ᴇxᴛᴇʀɴᴀʟ ᴀᴘɪs:
 
-- **MongoDB:** Stores data for user and subscription management.
+- **ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ:** ᴀʟʟᴏᴡs ɪɴᴛᴇʀᴀᴄᴛɪᴏɴ ᴡɪᴛʜ ᴜsᴇʀs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ.
 
-## 🚀 Quick Deployment
+- **ᴄᴏᴅᴇ sᴇᴀʀᴄʜ ᴀᴘɪ:** ᴘʀᴏᴠɪᴅᴇs ᴀᴄᴄᴇss ᴛᴏ ᴍᴜʟᴛɪᴘʟᴇs ᴀɪ ᴀɴᴅ ɪᴍᴀɢᴇ ᴍᴏᴅᴇʟs ғᴏʀ ᴅɪᴠᴇʀsᴇ ʀᴇsᴘᴏɴsᴇs.
 
-Deploy Response By Ai on Heroku with a single click:
-Required Environment Variables
+- **ᴍᴏɴɢᴏᴅʙ:** sᴛᴏʀᴇs ᴅᴀᴛᴀ ғᴏʀ ᴜsᴇʀ ᴀɴᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ.
 
-To set up the bot, configure the following variables:
+## 🚀 ǫᴜɪᴄᴋ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
+
+ᴅᴇᴘʟᴏʏ ᴋʀɪsʜ ᴀɪ on ʜᴇʀᴏᴋᴜ ᴡɪᴛʜ ᴀ sɪɴɢʟᴇ ᴄʟɪᴄᴋ:
+ʀᴇǫᴜɪʀᴇᴅ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ ᴠᴀʀɪᴀʙʟᴇs
+
+ᴛᴏ sᴇᴛ up ᴛʜᴇ ʙᴏᴛ, ᴄᴏɴғɪɢᴜʀᴇ ᴛʜᴇ ғᴏʟʟᴏᴡɪɴɢ ᴠᴀʀɪᴀʙʟᴇs:
 ```
-API_ID = YOUR TELEGRAM API ID
-API_HASH = YOUR TELEGRAM APP HASH
-BOT_TOKEN = YOUR BOT TOKEN
-OWNER_ID = YOUR TELEGRAM ID
-MONGO_URL = MONGO DB CONNECTION STRING
-AUTH_CHANNEL = YOUR OWN CHANNEL ID
+ᴀᴘɪ_ɪᴅ = ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ɪᴅ
+ᴀᴘɪ_ʜᴀsʜ = ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘᴘ ʜᴀsʜ
+ʙᴏᴛ_ᴛᴏᴋᴇɴ = YOUR BOT TOKEN
+ᴏᴡɴᴇʀ_ɪғᴜᴛᴜʀɪsᴛɪᴄᴇʟᴇɢʀᴀᴍ ɪᴅ
+ᴍᴏɴɢᴏ_ᴜʀʟ = ᴍᴏɴɢᴏ ᴅʙ ᴄᴏɴɴᴇᴄᴛɪᴏɴ sᴛʀɪɴɢ
+ᴀᴜᴛʜ_ᴄʜᴀɴɴᴇʟ = ʏᴏᴜʀ ᴏᴡɴ ᴄʜᴀɴɴᴇʟ ɪᴅ
 ```
-### 💡 Usage
+ 💡 ᴜsᴀɢᴇ
 
-After deployment, start a chat with the bot on Telegram to explore its features. Here are some commands to get you started:
+ᴀғᴛᴇʀ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ, sᴛᴀʀᴛ ᴀ ᴄʜᴀᴛ ᴡɪᴛʜ ᴛʜᴇ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴛᴏ ᴇxᴘʟᴏʀᴇ ɪᴛs ғᴇᴀᴛᴜʀᴇs. ʜᴇʀᴇ ᴀʀᴇ sᴏᴍᴇ ᴄᴏᴍᴍᴀɴᴅs ᴛᴏ ɢᴇᴛ ʏᴏᴜ sᴛᴀʀᴛᴇᴅ:
 
 Commands
 
-- **/start**– Start the bot and receive a welcome message.
-- **/ask** – Ask questions and get responses powered by Response By Ai.
-- **/draw** – Generate images from descriptions.
-- **/scan_ph** – Scan and describe any image based on your prompts.
+- **/sᴛᴀʀᴛ**– sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴀɴᴅ ʀᴇᴄᴇɪᴠᴇ a ᴡᴇʟᴄᴏᴍᴇ ᴍᴇssᴀɢᴇ.
+- **/ᴀsᴋ** – ᴀsᴋ ǫᴜᴇsᴛɪᴏɴs ᴀɴᴅ ɢᴇᴛ ʀᴇsᴘᴏɴsᴇs ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋʀɪsʜ ᴀɪ.
+- **/draw** – ɢᴇɴᴇʀᴀᴛᴇ ɪᴍᴀɢᴇs ғʀᴏᴍ ᴅᴇsᴄʀɪᴘᴛɪᴏɴs.
+- **/scan_ph** – sᴄᴀɴ ᴀɴᴅ ᴅᴇsᴄʀɪʙᴇ ᴀɴʏ ɪᴍᴀɢᴇ ʙᴀsᴇᴅ ᴏɴ ʏᴏᴜʀ ᴘʀᴏᴍᴘᴛs.
 
 
-### 📚 Examples
+📚 ᴇxᴀᴍᴘʟᴇs
 
-1. Getting Started: Type /start to explore the main menu and features.
-
-
-2. Ask a Question: Use /ask What’s the weather today? for quick, accurate information.
+1. ɢᴇᴛᴛɪɴɢ sᴛᴀʀᴛᴇᴅ: ᴛʏᴘᴇ /sᴛᴀʀᴛ ᴛᴏ ᴇxᴘʟᴏʀᴇ ᴛʜᴇ ᴍᴀɪɴ ᴍᴇɴᴜ ᴀɴᴅ ғᴇᴀᴛᴜʀᴇs.
 
 
-3. Image Generation: Once the feature goes live, type /draw A futuristic city at sunset to get an AI-generated image based on your description.
+2. ᴀsᴋ ᴀ ǫᴜᴇsᴛɪᴏɴ: ᴜsᴇ /ᴀsᴋ ᴡʜᴀᴛ’s ᴛʜᴇ ᴡᴇᴀᴛʜᴇʀ ᴛᴏᴅᴀʏ? ғᴏʀ ǫᴜɪᴄᴋ, ᴀᴄᴄᴜʀᴀᴛᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.
+
+
+3. ɪᴍᴀɢᴇ ɢᴇɴᴇʀᴀᴛɪᴏɴ: ᴏɴᴄᴇ ᴛʜᴇ ғᴇᴀᴛᴜʀᴇ ɢᴏᴇs ʟɪᴠᴇ, ᴛʏᴘᴇ /ᴅʀᴀᴡ ᴀ ғᴜᴛᴜʀɪsᴛɪᴄ ᴄɪᴛʏ ᴀᴛ sᴜɴsᴇᴛ ᴛᴏ ɢᴇᴛ ᴀɴ ᴀɪ ɪᴍᴀɢᴇ ʙᴀsᴇᴅ ᴏɴ ʏᴏᴜʀ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ.
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
