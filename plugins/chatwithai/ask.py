@@ -9,7 +9,7 @@ from database import *
 
 def ask_query(query, model=None):
     default_model = 'mistralai/Mixtral-8x7B-Instruct-v0.1'
-    system_prompt = """You are a helpful assistant. Your name is ResponseByAi, and your owner's name is Captain, known as @itzAsuraa"""
+    system_prompt = """ʏᴏᴜ ᴀʀᴇ ᴀ ʜᴇʟᴘғᴜʟ ᴀssɪsᴛᴀɴᴛ. ʏᴏᴜʀ ɴᴀᴍᴇ ɪs sᴇᴀʀᴄʜ ᴡɪᴛʜ ᴀɪ, ᴀɴᴅ ʏᴏᴜʀ ᴏᴡɴᴇʀ ɴᴀᴍᴇ ɪs 𝐊ʀɪsʜ ᴍɪsʜʀᴀ , ᴋɴᴏᴡ ᴀs @lx44kk"""
 
     model = model or default_model
 
@@ -22,7 +22,7 @@ def ask_query(query, model=None):
     response = requests.get(url)
 
     if response.status_code == 200:
-        return response.json().get("response", "😕 Sorry, no response found.")
+        return response.json().get("response", "😕 sᴏʀʀʏ, ɴᴏ ʀᴇsᴘᴏɴsᴇ ғᴏᴜɴᴅ.")
     else:
         return f"⚠️ Error fetching response from API. Status code: {response.status_code}"
 
@@ -44,7 +44,7 @@ async def ask_query_command(client, message):
         user_mention = message.from_user.mention
         await message.reply_text(f"{user_mention}, {reply} 🚀")
     else:
-        await message.reply_text("📝 Please provide a query to ask ResponseByAi! Don't be shy, let's chat! 🤖💬.")
+        await message.reply_text("📝 Please provide a query to ask sᴇᴀᴄʜᴀᴛ ᴡɪᴛʜ ᴀɪ! ᴅᴏɴ'ᴛ ʙᴇ sʜʏ, ʟᴇᴛ's ᴄʜᴀᴛ ʙᴀʙʏ! 🥀")
 
 @Client.on_message(filters.mentioned & filters.group)
 async def handle_mention(client: Client, message: Message):
